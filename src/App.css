@@ -48,7 +48,7 @@
   color: blueviolet;
   text-align: center;
 }
-.card-items h3{
+.card-items h3 {
   color: blueviolet;
 }
 #bgvid {
@@ -60,4 +60,18 @@
   width: auto;
   height: auto;
   z-index: -1;
+}
+.card-items h2 {
+  display: flex;
+  gap: 10px;
+}
+.card-items h1 {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.card-items h3 {
+  display: flex;
+  align-items: center;
+  gap: 10px;
 }
